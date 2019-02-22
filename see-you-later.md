@@ -9,3 +9,4 @@ see-you-later
 - [stefanbuck/awesome-browser-extensions-for-github: A collection of awesome browser extensions for GitHub.](https://github.com/stefanbuck/awesome-browser-extensions-for-github) 
 - [LCC-Win: A free compiler system for Windows Operating Systems by Jacob Navia](https://lcc-win32.services.net/) 
 - [(99+) comp.compilers.lcc – Группы Google](https://groups.google.com/forum/#!forum/comp.compilers.lcc) 
+- [(99+) comp.compilers – Группы Google](https://groups.google.com/forum/#!forum/comp.compilers) 
