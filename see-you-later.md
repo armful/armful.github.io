@@ -12,3 +12,4 @@ see-you-later
 - [(99+) comp.compilers – Группы Google](https://groups.google.com/forum/#!forum/comp.compilers) 
 - [(99+) comp.lang.c++ – Группы Google](https://groups.google.com/forum/#!forum/comp.lang.c++) 
 - [(99+) comp.lang.c – Группы Google](https://groups.google.com/forum/#!forum/comp.lang.c) 
+- [Supported Programming Languages · mrfearless/RadASM2 Wiki](https://github.com/mrfearless/RadASM2/wiki/Supported-Programming-Languages) 
