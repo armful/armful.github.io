@@ -11,3 +11,4 @@ see-you-later
 - [(99+) comp.compilers.lcc – Группы Google](https://groups.google.com/forum/#!forum/comp.compilers.lcc) 
 - [(99+) comp.compilers – Группы Google](https://groups.google.com/forum/#!forum/comp.compilers) 
 - [(99+) comp.lang.c++ – Группы Google](https://groups.google.com/forum/#!forum/comp.lang.c++) 
+- [(99+) comp.lang.c – Группы Google](https://groups.google.com/forum/#!forum/comp.lang.c) 
