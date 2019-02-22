@@ -13,3 +13,4 @@ see-you-later
 - [(99+) comp.lang.c++ – Группы Google](https://groups.google.com/forum/#!forum/comp.lang.c++) 
 - [(99+) comp.lang.c – Группы Google](https://groups.google.com/forum/#!forum/comp.lang.c) 
 - [Supported Programming Languages · mrfearless/RadASM2 Wiki](https://github.com/mrfearless/RadASM2/wiki/Supported-Programming-Languages) 
+- [tenk-a/c_lang_test: C 言語の機能の動作を確認するためのテスト群](https://github.com/tenk-a/c_lang_test) 
