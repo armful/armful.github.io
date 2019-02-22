@@ -4,3 +4,4 @@ see-you-later
 - [Тест Си компиляторов под Windows / Хабр](https://habr.com/ru/post/107664/) 
 - [drh/lcc: The lcc retargetable ANSI C compiler](https://github.com/drh/lcc) 
 - [armful.github.io | see-you-later](https://armful.github.io/see-you-later.html) 
+- [hankchanocd/My_Reads_2019: The logs of my favorite daily reads](https://github.com/hankchanocd/My_Reads_2019) 
