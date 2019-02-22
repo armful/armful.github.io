@@ -1,1 +1,1 @@
-- [see-you-later](https://armful.github.io/see-you-later.md)
+- [see-you-later](/see-you-later.md)
