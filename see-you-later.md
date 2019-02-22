@@ -6,3 +6,4 @@ see-you-later
 - [armful.github.io | see-you-later](https://armful.github.io/see-you-later.html) 
 - [hankchanocd/My_Reads_2019: The logs of my favorite daily reads](https://github.com/hankchanocd/My_Reads_2019) 
 - [hankchanocd/My_Reads_2018: The logs of my favorite daily reads](https://github.com/hankchanocd/My_Reads_2018) 
+- [stefanbuck/awesome-browser-extensions-for-github: A collection of awesome browser extensions for GitHub.](https://github.com/stefanbuck/awesome-browser-extensions-for-github) 
