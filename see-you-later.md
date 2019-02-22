@@ -10,3 +10,4 @@ see-you-later
 - [LCC-Win: A free compiler system for Windows Operating Systems by Jacob Navia](https://lcc-win32.services.net/) 
 - [(99+) comp.compilers.lcc – Группы Google](https://groups.google.com/forum/#!forum/comp.compilers.lcc) 
 - [(99+) comp.compilers – Группы Google](https://groups.google.com/forum/#!forum/comp.compilers) 
+- [(99+) comp.lang.c++ – Группы Google](https://groups.google.com/forum/#!forum/comp.lang.c++) 
