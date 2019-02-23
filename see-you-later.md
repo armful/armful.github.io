@@ -2,7 +2,6 @@ see-you-later
 
 ### February 24, 2019 
 - [andrew--r/the-little-book-on-coffeescript: Перевод на русский книги «The Little Book on CoffeeScript».](https://github.com/andrew--r/the-little-book-on-coffeescript) 
-- [andrew--r/the-little-book-on-coffeescript: Перевод на русский книги «The Little Book on CoffeeScript».](https://github.com/andrew--r/the-little-book-on-coffeescript) 
 - [dyp2000/Russian-Armstrong-Erlang: Совместный перевод книги Дж.Армстронга "Programming Erlang"](https://github.com/dyp2000/Russian-Armstrong-Erlang) 
 - [GitBook](https://www.gitbook.com/) 
 - [kopyrin/yii2-cookbook-3-ru: Перевод на русский язык книги рецептов](https://github.com/kopyrin/yii2-cookbook-3-ru) 
