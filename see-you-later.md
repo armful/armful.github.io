@@ -5,6 +5,7 @@ see-you-later
 - [andrew--r/the-little-book-on-coffeescript: Перевод на русский книги «The Little Book on CoffeeScript».](https://github.com/andrew--r/the-little-book-on-coffeescript) 
 - [dyp2000/Russian-Armstrong-Erlang: Совместный перевод книги Дж.Армстронга "Programming Erlang"](https://github.com/dyp2000/Russian-Armstrong-Erlang) 
 - [GitBook](https://www.gitbook.com/) 
+- [kopyrin/yii2-cookbook-3-ru: Перевод на русский язык книги рецептов](https://github.com/kopyrin/yii2-cookbook-3-ru) 
 ### February 23, 2019 
 - [Chrome extension - Links to content you like](https://github.com/Idnan/like-on-github) 
 - [Тест Си компиляторов под Windows / Хабр](https://habr.com/ru/post/107664/) 
