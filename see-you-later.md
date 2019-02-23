@@ -7,6 +7,7 @@ see-you-later
 - [GitBook](https://www.gitbook.com/) 
 - [kopyrin/yii2-cookbook-3-ru: Перевод на русский язык книги рецептов](https://github.com/kopyrin/yii2-cookbook-3-ru) 
 - [Zveroboev/The-Complete-Redux-Book: Перевод книги The Complete Redux Book](https://github.com/Zveroboev/The-Complete-Redux-Book) 
+- [jtwbm/Bertrand-Meyer-OOP: Подробный конспект книги Бертрана Мейера: Объектно-ориентированное конструирование программных систем](https://github.com/jtwbm/Bertrand-Meyer-OOP) 
 ### February 23, 2019 
 - [Chrome extension - Links to content you like](https://github.com/Idnan/like-on-github) 
 - [Тест Си компиляторов под Windows / Хабр](https://habr.com/ru/post/107664/) 
