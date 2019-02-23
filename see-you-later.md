@@ -14,6 +14,7 @@ see-you-later
 - [olegbukatchuk/book-cpp-the-examples-and-tasks-part-1: Код примеров из книги: Программирование на C++ в примерах и задачах. Автор: Васильев А.Н.](https://github.com/olegbukatchuk/book-cpp-the-examples-and-tasks-part-1) 
 - [leerg/Strau10_ex6: Упражнение из книги Страуструппа (калькулятор с римскими числами)](https://github.com/leerg/Strau10_ex6) 
 - [dzencot/how-to-program-cpp: Уроки из книги "Как программировать на С++" пятое издание. В процессе.](https://github.com/dzencot/how-to-program-cpp) 
+- [ohaskell/SUMMARY.md at master · Pestov/ohaskell](https://github.com/Pestov/ohaskell/blob/master/ru/SUMMARY.md) 
 ### February 23, 2019 
 - [Chrome extension - Links to content you like](https://github.com/Idnan/like-on-github) 
 - [Тест Си компиляторов под Windows / Хабр](https://habr.com/ru/post/107664/) 
