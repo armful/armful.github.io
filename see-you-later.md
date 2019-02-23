@@ -9,6 +9,7 @@ see-you-later
 - [jtwbm/Bertrand-Meyer-OOP: Подробный конспект книги Бертрана Мейера: Объектно-ориентированное конструирование программных систем](https://github.com/jtwbm/Bertrand-Meyer-OOP) 
 - [avmaisak/LFS_Book: Перевод книги Linux From Scratch на русский язык](https://github.com/avmaisak/LFS_Book) 
 - [EvgeniyShipov/patterns: Проект представляет из себя сборник паттернов проектирования, на основе книги "Приемы объектно-ориентированного проектирования. Паттерны проектирования." Гамма Э., Хелм Р., Джонсон Р., Влиссидес Дж.](https://github.com/EvgeniyShipov/patterns) 
+- [sonulen/sb_meyers55: Разбор примеров из книги: Эффективное использование С++. 55 советов](https://github.com/sonulen/sb_meyers55) 
 ### February 23, 2019 
 - [Chrome extension - Links to content you like](https://github.com/Idnan/like-on-github) 
 - [Тест Си компиляторов под Windows / Хабр](https://habr.com/ru/post/107664/) 
