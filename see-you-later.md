@@ -3,6 +3,7 @@ see-you-later
 ### February 24, 2019 
 - [andrew--r/the-little-book-on-coffeescript: Перевод на русский книги «The Little Book on CoffeeScript».](https://github.com/andrew--r/the-little-book-on-coffeescript) 
 - [andrew--r/the-little-book-on-coffeescript: Перевод на русский книги «The Little Book on CoffeeScript».](https://github.com/andrew--r/the-little-book-on-coffeescript) 
+- [dyp2000/Russian-Armstrong-Erlang: Совместный перевод книги Дж.Армстронга "Programming Erlang"](https://github.com/dyp2000/Russian-Armstrong-Erlang) 
 ### February 23, 2019 
 - [Chrome extension - Links to content you like](https://github.com/Idnan/like-on-github) 
 - [Тест Си компиляторов под Windows / Хабр](https://habr.com/ru/post/107664/) 
