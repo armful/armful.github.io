@@ -12,6 +12,7 @@ see-you-later
 - [sonulen/sb_meyers55: Разбор примеров из книги: Эффективное использование С++. 55 советов](https://github.com/sonulen/sb_meyers55) 
 - [leerg/Strau11_ex6: Упражнение из книги Страуструппа (замена слов, символов в строке)](https://github.com/leerg/Strau11_ex6) 
 - [olegbukatchuk/book-cpp-the-examples-and-tasks-part-1: Код примеров из книги: Программирование на C++ в примерах и задачах. Автор: Васильев А.Н.](https://github.com/olegbukatchuk/book-cpp-the-examples-and-tasks-part-1) 
+- [leerg/Strau10_ex6: Упражнение из книги Страуструппа (калькулятор с римскими числами)](https://github.com/leerg/Strau10_ex6) 
 ### February 23, 2019 
 - [Chrome extension - Links to content you like](https://github.com/Idnan/like-on-github) 
 - [Тест Си компиляторов под Windows / Хабр](https://habr.com/ru/post/107664/) 
