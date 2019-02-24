@@ -17,6 +17,7 @@ see-you-later
 - [ohaskell/SUMMARY.md at master · Pestov/ohaskell](https://github.com/Pestov/ohaskell/blob/master/ru/SUMMARY.md) 
 - [kekcleader/FreeOberon: Cross-platform IDE for development in Oberon programming language made in the classical FreePascal-like pseudo-graphic style.](https://github.com/kekcleader/FreeOberon) 
 - [angryopossum/reading_list: Книги с которыми стоит познакомиться](https://github.com/angryopossum/reading_list) 
+- [demidovakatya/vvedenie-mashinnoe-obuchenie: Подборка ресурсов по машинному обучению](https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie) 
 ### February 23, 2019 
 - [Chrome extension - Links to content you like](https://github.com/Idnan/like-on-github) 
 - [Тест Си компиляторов под Windows / Хабр](https://habr.com/ru/post/107664/) 
