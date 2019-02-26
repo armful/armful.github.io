@@ -1,5 +1,8 @@
 see-you-later
 
+
+### February 26, 2019 
+- [Lightbot](http://lightbot.com/flash.html) 
 ### February 24, 2019 
 - [andrew--r/the-little-book-on-coffeescript: Перевод на русский книги «The Little Book on CoffeeScript».](https://github.com/andrew--r/the-little-book-on-coffeescript) 
 - [dyp2000/Russian-Armstrong-Erlang: Совместный перевод книги Дж.Армстронга "Programming Erlang"](https://github.com/dyp2000/Russian-Armstrong-Erlang) 
