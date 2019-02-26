@@ -9,6 +9,7 @@ see-you-later
 - [PascalABC.NET - это](http://pascalabc.net/) 
 - [Unity](https://unity3d.com/ru) 
 - [Welcome to Python.org](https://www.python.org/) 
+- [Основы JavaScript](https://html5book.ru/osnovy-javascript/) 
 ### February 24, 2019 
 - [andrew--r/the-little-book-on-coffeescript: Перевод на русский книги «The Little Book on CoffeeScript».](https://github.com/andrew--r/the-little-book-on-coffeescript) 
 - [dyp2000/Russian-Armstrong-Erlang: Совместный перевод книги Дж.Армстронга "Programming Erlang"](https://github.com/dyp2000/Russian-Armstrong-Erlang) 
