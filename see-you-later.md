@@ -10,6 +10,7 @@ see-you-later
 - [Application Programming Interface (API)](https://ods.od.nih.gov/api/) 
 - [sergeykozin1/Energy: Dietary Supplements](https://github.com/sergeykozin1/Energy) 
 - [rtso/Dietary-Supplement-Recommender](https://github.com/rtso/Dietary-Supplement-Recommender) 
+- [MaxOhn/CiteNetCheck: Browser extension displaying citation network of pubmed papers](https://github.com/MaxOhn/CiteNetCheck) 
 ### February 26, 2019 
 - [Lightbot](http://lightbot.com/flash.html) 
 - [RoboZZle - a social puzzle game](http://www.robozzle.com/beta/index.html) 
