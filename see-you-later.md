@@ -8,6 +8,7 @@ see-you-later
 - [zhang-informatics/DDSAE: Database of Dietary Supplement Adverse Events (DDSAE)](https://github.com/zhang-informatics/DDSAE) 
 - [zhang-informatics/DDSAE: Database of Dietary Supplement Adverse Events (DDSAE)](https://github.com/zhang-informatics/DDSAE) 
 - [Application Programming Interface (API)](https://ods.od.nih.gov/api/) 
+- [sergeykozin1/Energy: Dietary Supplements](https://github.com/sergeykozin1/Energy) 
 ### February 26, 2019 
 - [Lightbot](http://lightbot.com/flash.html) 
 - [RoboZZle - a social puzzle game](http://www.robozzle.com/beta/index.html) 
