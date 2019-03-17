@@ -12,6 +12,7 @@ see-you-later
 - [rtso/Dietary-Supplement-Recommender](https://github.com/rtso/Dietary-Supplement-Recommender) 
 - [MaxOhn/CiteNetCheck: Browser extension displaying citation network of pubmed papers](https://github.com/MaxOhn/CiteNetCheck) 
 - [Releases · ppy/osu](https://github.com/ppy/osu/releases) 
+- [ScholCommLab/pubmed-altmetrics: Retrieve altmetrics for Pubmed queries](https://github.com/ScholCommLab/pubmed-altmetrics) 
 ### February 26, 2019 
 - [Lightbot](http://lightbot.com/flash.html) 
 - [RoboZZle - a social puzzle game](http://www.robozzle.com/beta/index.html) 
