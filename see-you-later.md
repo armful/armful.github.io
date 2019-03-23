@@ -19,6 +19,7 @@ see-you-later
 - [victoriadotdev/fancy-unicode: Turn boring plain text into pretty unicode characters.](https://github.com/victoriadotdev/fancy-unicode) 
 - [printfn/unicode-unicorn: Online Unicode IDE](https://github.com/printfn/unicode-unicorn) 
 - [TiagoDanin/JUnicodeInfo: Verify unicode in your text](https://github.com/TiagoDanin/JUnicodeInfo) 
+- [SaffronCode/ArabicConverter: Arabic To Unicode Converter - فارسی نویس](https://github.com/SaffronCode/ArabicConverter) 
 ### March 23, 2019 
 - [fabrizioschiavi/arrow-finder: These docs help you to find and use arrows you need more quickly](https://github.com/fabrizioschiavi/arrow-finder) 
 - [jimmywarting/ofc: Online font converter](https://github.com/jimmywarting/ofc) 
