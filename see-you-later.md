@@ -11,6 +11,7 @@ see-you-later
 - [googlei18n/fontreport: Tool to create PDF files containing glyph images and information about a font.](https://github.com/googlei18n/fontreport) 
 - [eugmes/fntsample: PDF and PostScript font samples generator (migrating from https://sourceforge.net/projects/fntsample/)](https://github.com/eugmes/fntsample) 
 - [victoriadotdev/fancy-unicode: Turn boring plain text into pretty unicode characters.](https://github.com/victoriadotdev/fancy-unicode) 
+- [sprtus/glyphs: The handy developer’s glyph reference](https://github.com/sprtus/glyphs) 
 ### March 23, 2019 
 - [fabrizioschiavi/arrow-finder: These docs help you to find and use arrows you need more quickly](https://github.com/fabrizioschiavi/arrow-finder) 
 - [jimmywarting/ofc: Online font converter](https://github.com/jimmywarting/ofc) 
