@@ -14,6 +14,7 @@ see-you-later
 - [sprtus/glyphs: The handy developer’s glyph reference](https://github.com/sprtus/glyphs) 
 - [nushu-script/nushu-script.github.io: The Nushu Dictionary website / 女书字典](https://github.com/nushu-script/nushu-script.github.io) 
 - [nushu-script/nushu-script.github.io: The Nushu Dictionary website / 女书字典](https://github.com/nushu-script/nushu-script.github.io) 
+- [nushu-script/unicode_nushu: Database for Nushu included in the Unicode Standard](https://github.com/nushu-script/unicode_nushu) 
 ### March 23, 2019 
 - [fabrizioschiavi/arrow-finder: These docs help you to find and use arrows you need more quickly](https://github.com/fabrizioschiavi/arrow-finder) 
 - [jimmywarting/ofc: Online font converter](https://github.com/jimmywarting/ofc) 
