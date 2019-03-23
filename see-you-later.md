@@ -7,6 +7,7 @@ see-you-later
 
 ### March 24, 2019 
 - [MrRio/jsPDF: Client-side JavaScript PDF generation for everyone.](https://github.com/MrRio/jsPDF) 
+- [sphilee/jsPDF-CustomFonts-support: This repo is being deprecated. Please check out https://github.com/MrRio/jsPDF](https://github.com/sphilee/jsPDF-CustomFonts-support) 
 ### March 23, 2019 
 - [fabrizioschiavi/arrow-finder: These docs help you to find and use arrows you need more quickly](https://github.com/fabrizioschiavi/arrow-finder) 
 - [jimmywarting/ofc: Online font converter](https://github.com/jimmywarting/ofc) 
