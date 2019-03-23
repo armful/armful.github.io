@@ -18,6 +18,7 @@ see-you-later
 - [sprtus/glyphs: The handy developer’s glyph reference](https://github.com/sprtus/glyphs) 
 - [victoriadotdev/fancy-unicode: Turn boring plain text into pretty unicode characters.](https://github.com/victoriadotdev/fancy-unicode) 
 - [printfn/unicode-unicorn: Online Unicode IDE](https://github.com/printfn/unicode-unicorn) 
+- [TiagoDanin/JUnicodeInfo: Verify unicode in your text](https://github.com/TiagoDanin/JUnicodeInfo) 
 ### March 23, 2019 
 - [fabrizioschiavi/arrow-finder: These docs help you to find and use arrows you need more quickly](https://github.com/fabrizioschiavi/arrow-finder) 
 - [jimmywarting/ofc: Online font converter](https://github.com/jimmywarting/ofc) 
