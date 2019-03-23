@@ -4,6 +4,9 @@ see-you-later
 
 
 
+
+### March 24, 2019 
+- [MrRio/jsPDF: Client-side JavaScript PDF generation for everyone.](https://github.com/MrRio/jsPDF) 
 ### March 23, 2019 
 - [fabrizioschiavi/arrow-finder: These docs help you to find and use arrows you need more quickly](https://github.com/fabrizioschiavi/arrow-finder) 
 - [jimmywarting/ofc: Online font converter](https://github.com/jimmywarting/ofc) 
