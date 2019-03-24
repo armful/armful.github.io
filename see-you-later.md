@@ -28,6 +28,7 @@ see-you-later
 - [stahta01/zinjai-ide: ZinjaI IDE manual clone of https://sourceforge.net/projects/zinjai/](https://github.com/stahta01/zinjai-ide) 
 - [PLLUG/CPPQT-Roadmap-Book: Handbook for PLLUG C++/Qt Roadmap participants.](https://github.com/PLLUG/CPPQT-Roadmap-Book) 
 - [UniSwarm/uDevkit-IDE: An IDE for uDevkit or C/C++ projects with Git written in Qt5](https://github.com/UniSwarm/uDevkit-IDE) 
+- [UniSwarm/uDevkit-SDK: Embedded systems SDK for Uniswarm boards and others (dsPIC33, dsPIC30, PIC24 and PIC32 compatible)](https://github.com/UniSwarm/uDevkit-SDK) 
 ### March 23, 2019 
 - [fabrizioschiavi/arrow-finder: These docs help you to find and use arrows you need more quickly](https://github.com/fabrizioschiavi/arrow-finder) 
 - [jimmywarting/ofc: Online font converter](https://github.com/jimmywarting/ofc) 
