@@ -31,6 +31,7 @@ see-you-later
 - [UniSwarm/uDevkit-SDK: Embedded systems SDK for Uniswarm boards and others (dsPIC33, dsPIC30, PIC24 and PIC32 compatible)](https://github.com/UniSwarm/uDevkit-SDK) 
 - [MISP/pdf_fonts: PDF Fonts used by PyMISP PDFtools export to support internalization](https://github.com/MISP/pdf_fonts) 
 - [MISP/pdf_fonts: PDF Fonts used by PyMISP PDFtools export to support internalization](https://github.com/MISP/pdf_fonts) 
+- [masterkey1009/NotoSansCJK: NotoSansCJK regular-medium-bold](https://github.com/masterkey1009/NotoSansCJK) 
 ### March 23, 2019 
 - [fabrizioschiavi/arrow-finder: These docs help you to find and use arrows you need more quickly](https://github.com/fabrizioschiavi/arrow-finder) 
 - [jimmywarting/ofc: Online font converter](https://github.com/jimmywarting/ofc) 
