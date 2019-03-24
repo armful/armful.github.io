@@ -24,6 +24,7 @@ see-you-later
 - [srobinson/unicode-wiki: A fully indexed, browsable and searchable unicode explorer with wikipedia integration](https://github.com/srobinson/unicode-wiki) 
 - [janlelis/unicode-x: Unicode Micro Libraries for Ruby](https://github.com/janlelis/unicode-x) 
 - [GregRos/UnicodeInput: Script for inputting Unicode characters using human-readable commands.](https://github.com/GregRos/UnicodeInput) 
+- [stahta01/zinjai-ide: ZinjaI IDE manual clone of https://sourceforge.net/projects/zinjai/](https://github.com/stahta01/zinjai-ide) 
 ### March 23, 2019 
 - [fabrizioschiavi/arrow-finder: These docs help you to find and use arrows you need more quickly](https://github.com/fabrizioschiavi/arrow-finder) 
 - [jimmywarting/ofc: Online font converter](https://github.com/jimmywarting/ofc) 
