@@ -26,6 +26,7 @@ see-you-later
 - [GregRos/UnicodeInput: Script for inputting Unicode characters using human-readable commands.](https://github.com/GregRos/UnicodeInput) 
 - [stahta01/zinjai-ide: ZinjaI IDE manual clone of https://sourceforge.net/projects/zinjai/](https://github.com/stahta01/zinjai-ide) 
 - [stahta01/zinjai-ide: ZinjaI IDE manual clone of https://sourceforge.net/projects/zinjai/](https://github.com/stahta01/zinjai-ide) 
+- [PLLUG/CPPQT-Roadmap-Book: Handbook for PLLUG C++/Qt Roadmap participants.](https://github.com/PLLUG/CPPQT-Roadmap-Book) 
 ### March 23, 2019 
 - [fabrizioschiavi/arrow-finder: These docs help you to find and use arrows you need more quickly](https://github.com/fabrizioschiavi/arrow-finder) 
 - [jimmywarting/ofc: Online font converter](https://github.com/jimmywarting/ofc) 
