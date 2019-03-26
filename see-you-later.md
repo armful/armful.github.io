@@ -5,6 +5,9 @@ see-you-later
 
 
 
+
+### March 26, 2019 
+- [rmsoftware-development/RMSoftware.ModularBot: A Multi-purpose bot for discord. Tailor it for your specific guild, and create your own modules. Includes a core module for custom text-based commands with support for advanced functionality](https://github.com/rmsoftware-development/RMSoftware.ModularBot) 
 ### March 24, 2019 
 - [MrRio/jsPDF: Client-side JavaScript PDF generation for everyone.](https://github.com/MrRio/jsPDF) 
 - [sphilee/jsPDF-CustomFonts-support: This repo is being deprecated. Please check out https://github.com/MrRio/jsPDF](https://github.com/sphilee/jsPDF-CustomFonts-support) 
