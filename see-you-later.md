@@ -16,6 +16,7 @@ see-you-later
 - [mindaugaskasp/discord-music-bot: Node.js / Discord.js / Discord.js-Commando based bot solely for the purpose of playing audio stream to Discord](https://github.com/mindaugaskasp/discord-music-bot) 
 - [LenoxBot/LenoxBot: LenoxBot is a Discord bot that offers many cool new features to your Discord server!](https://github.com/LenoxBot/LenoxBot) 
 - [LenoxBot/LenoxBot: LenoxBot is a Discord bot that offers many cool new features to your Discord server!](https://github.com/LenoxBot/LenoxBot) 
+- [nickspencer2/chord: A discord bot for playing music.](https://github.com/nickspencer2/chord) 
 ### March 26, 2019 
 - [rmsoftware-development/RMSoftware.ModularBot: A Multi-purpose bot for discord. Tailor it for your specific guild, and create your own modules. Includes a core module for custom text-based commands with support for advanced functionality](https://github.com/rmsoftware-development/RMSoftware.ModularBot) 
 - [DrHacknik/NetCord: A lightweight, CefSharp C# based Discord Client](https://github.com/DrHacknik/NetCord) 
