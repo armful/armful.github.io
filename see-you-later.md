@@ -6,6 +6,9 @@ see-you-later
 
 
 
+
+### April 3, 2019 
+- [TolleyB-J/ChatBot: A W.I.P All-in-One Discord Bot](https://github.com/TolleyB-J/ChatBot) 
 ### March 26, 2019 
 - [rmsoftware-development/RMSoftware.ModularBot: A Multi-purpose bot for discord. Tailor it for your specific guild, and create your own modules. Includes a core module for custom text-based commands with support for advanced functionality](https://github.com/rmsoftware-development/RMSoftware.ModularBot) 
 - [DrHacknik/NetCord: A lightweight, CefSharp C# based Discord Client](https://github.com/DrHacknik/NetCord) 
