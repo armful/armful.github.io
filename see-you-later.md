@@ -12,6 +12,7 @@ see-you-later
 - [Musor / Discord Bots](https://discordbotlist.com/bots/424221765321883658) 
 - [JonnyBoy2000/Kira-Public: A multi purpose Discord bot. Made by Jonny™ with ❤!](https://github.com/JonnyBoy2000/Kira-Public) 
 - [JonnyBoy2000/Kira-Public: A multi purpose Discord bot. Made by Jonny™ with ❤!](https://github.com/JonnyBoy2000/Kira-Public) 
+- [zekroTJA/DiscordBot: zekroBot - An universal, multifunctional JDA Discord music bot.](https://github.com/zekroTJA/DiscordBot) 
 ### March 26, 2019 
 - [rmsoftware-development/RMSoftware.ModularBot: A Multi-purpose bot for discord. Tailor it for your specific guild, and create your own modules. Includes a core module for custom text-based commands with support for advanced functionality](https://github.com/rmsoftware-development/RMSoftware.ModularBot) 
 - [DrHacknik/NetCord: A lightweight, CefSharp C# based Discord Client](https://github.com/DrHacknik/NetCord) 
