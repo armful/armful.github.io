@@ -12,6 +12,7 @@ see-you-later
 ### April 5, 2019 
 - [Очки Polaroid PLD 6023/S V6399LM купить по лучшей цене в интернет-магазине Polaroid](https://www.polaroidrussia.com/catalog/polaroid-sunglasses/ochki-polaroid-pld-6023s-v6399lm.html) 
 - [Очки Polaroid PLD 4047/S R8W548W купить по лучшей цене в интернет-магазине Polaroid](https://www.polaroidrussia.com/catalog/polaroid-sunglasses/ochki-polaroid-pld-4047s-r8w548w.html) 
+- [Очки Polaroid PLD 4047/S R8W548W купить по лучшей цене в интернет-магазине Polaroid](https://www.polaroidrussia.com/catalog/polaroid-sunglasses/ochki-polaroid-pld-4047s-r8w548w.html) 
 ### April 4, 2019 
 - [otanim/virtual-piano: Browser based virtual piano, based on javascript and HTML5.](https://github.com/otanim/virtual-piano) 
 - [Секретка на руле, как разблокировать руль. - YouTube](https://www.youtube.com/watch?v=f_CFMP315_c&list=PL6tbykdJy0gVSJIWa99zXT9eBSzYJ8Uxy&index=10) 
