@@ -10,6 +10,7 @@ see-you-later
 
 ### April 4, 2019 
 - [otanim/virtual-piano: Browser based virtual piano, based on javascript and HTML5.](https://github.com/otanim/virtual-piano) 
+- [Секретка на руле, как разблокировать руль. - YouTube](https://www.youtube.com/watch?v=f_CFMP315_c&list=PL6tbykdJy0gVSJIWa99zXT9eBSzYJ8Uxy&index=10) 
 ### April 3, 2019 
 - [TolleyB-J/ChatBot: A W.I.P All-in-One Discord Bot](https://github.com/TolleyB-J/ChatBot) 
 - [Musor / Discord Bots](https://discordbotlist.com/bots/424221765321883658) 
