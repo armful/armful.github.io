@@ -13,6 +13,7 @@ see-you-later
 ### April 6, 2019 
 - [Microsoft/calculator: Windows Calculator: A simple yet powerful calculator that ships with Windows](https://github.com/Microsoft/calculator) 
 - [Microsoft/WindowsTemplateStudio: Windows Template Studio quickly builds a UWP app, using a wizard-based UI to turn your needs into a foundation of Windows 10 patterns and best practices.](https://github.com/Microsoft/WindowsTemplateStudio) 
+- [Новые языки программирования незаметно убивают нашу связь с реальностью / Хабр](https://habr.com/ru/post/442112/) 
 ### April 5, 2019 
 - [Очки Polaroid PLD 6023/S V6399LM купить по лучшей цене в интернет-магазине Polaroid](https://www.polaroidrussia.com/catalog/polaroid-sunglasses/ochki-polaroid-pld-6023s-v6399lm.html) 
 - [Очки Polaroid PLD 4047/S R8W548W купить по лучшей цене в интернет-магазине Polaroid](https://www.polaroidrussia.com/catalog/polaroid-sunglasses/ochki-polaroid-pld-4047s-r8w548w.html) 
