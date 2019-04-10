@@ -13,6 +13,7 @@ see-you-later
 
 ### April 10, 2019 
 - [coriixyz/WindowsBot-GAB: A Windowsey Discord bot!](https://github.com/coriixyz/WindowsBot-GAB) 
+- [WiNDOGE-Master/Wind-For-Discord: An easy-breezy way to manage your Discord server without all those pesky toggles.](https://github.com/WiNDOGE-Master/Wind-For-Discord) 
 ### April 6, 2019 
 - [Microsoft/calculator: Windows Calculator: A simple yet powerful calculator that ships with Windows](https://github.com/Microsoft/calculator) 
 - [Microsoft/WindowsTemplateStudio: Windows Template Studio quickly builds a UWP app, using a wizard-based UI to turn your needs into a foundation of Windows 10 patterns and best practices.](https://github.com/Microsoft/WindowsTemplateStudio) 
