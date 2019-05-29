@@ -11,6 +11,9 @@ see-you-later
 
 
 
+
+### May 30, 2019 
+- [Dictionaryphile/All_Dictionaries: 宇宙最全在线词典网站导航](https://github.com/Dictionaryphile/All_Dictionaries#%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9) 
 ### April 10, 2019 
 - [coriixyz/WindowsBot-GAB: A Windowsey Discord bot!](https://github.com/coriixyz/WindowsBot-GAB) 
 - [WiNDOGE-Master/Wind-For-Discord: An easy-breezy way to manage your Discord server without all those pesky toggles.](https://github.com/WiNDOGE-Master/Wind-For-Discord) 
