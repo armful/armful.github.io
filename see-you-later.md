@@ -18,6 +18,7 @@ see-you-later
 - [sotch-pr35mac/syng: A free, open source, cross-platform, Chinese-To-English dictionary for desktops.](https://github.com/sotch-pr35mac/syng) 
 - [pepebecker/pinyin-chrome: Chrome extension to convert Chinese characters to Pinyin.](https://github.com/pepebecker/pinyin-chrome) 
 - [pepebecker/pinyin: Webinterface for my pinyin-convert module which let's you convert Chinese characters to pinyin and convert between pinyin with numbered tones and pinyin with tone marks.](https://github.com/pepebecker/pinyin) 
+- [studyzy/imewlconverter: 一款开源免费的输入法词库转换程序](https://github.com/studyzy/imewlconverter) 
 ### April 10, 2019 
 - [coriixyz/WindowsBot-GAB: A Windowsey Discord bot!](https://github.com/coriixyz/WindowsBot-GAB) 
 - [WiNDOGE-Master/Wind-For-Discord: An easy-breezy way to manage your Discord server without all those pesky toggles.](https://github.com/WiNDOGE-Master/Wind-For-Discord) 
