@@ -12,6 +12,9 @@ see-you-later
 
 
 
+
+### June 1, 2019 
+- [ShareX/ShareX: ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.](https://github.com/ShareX/ShareX) 
 ### May 30, 2019 
 - [Dictionaryphile/All_Dictionaries: 宇宙最全在线词典网站导航](https://github.com/Dictionaryphile/All_Dictionaries#%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9) 
 - [thunisoft/unispim: 华宇拼音输入法核心源码 (source code of unispim)](https://github.com/thunisoft/unispim) 
