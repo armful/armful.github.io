@@ -19,6 +19,7 @@ see-you-later
 - [kfcd/pingyam: 粵語拼音轉換表](https://github.com/kfcd/pingyam) 
 - [kfcd/pheng-im: 閩南語拼音轉換表](https://github.com/kfcd/pheng-im) 
 - [kfcd/pinyin: 漢語拼音轉換表](https://github.com/kfcd/pinyin) 
+- [開放詞典](https://github.com/kfcd) 
 ### June 4, 2019 
 - [liruifengv/alibaba-puhuiti: 阿里巴巴普惠体前端应用](https://github.com/liruifengv/alibaba-puhuiti) 
 ### June 1, 2019 
