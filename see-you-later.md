@@ -15,6 +15,9 @@ see-you-later
 
 
 
+
+### June 6, 2019 
+- [Slavonic Computing Initiative](https://github.com/slavonic) 
 ### June 5, 2019 
 - [kfcd/pingyam: 粵語拼音轉換表](https://github.com/kfcd/pingyam) 
 - [kfcd/pheng-im: 閩南語拼音轉換表](https://github.com/kfcd/pheng-im) 
