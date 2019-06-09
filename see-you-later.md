@@ -22,6 +22,7 @@ see-you-later
 - [jordan314/pitchgraph: Displays live audio in a graph above and below 220Hz](https://github.com/jordan314/pitchgraph) 
 - [RodrigoRoaRodriguez/Notalizer: A sound visualizer that displays frequency distribution and recognizes pitch as musical notes.](https://github.com/RodrigoRoaRodriguez/Notalizer) 
 - [MR6996/ChromaticTuner: An application for detects and displays the pitch of musical notes played on a musical instrument.](https://github.com/MR6996/ChromaticTuner#references) 
+- [myapos/e-tuner: E-tuner is a software application used by musicians to detect and display the pitch of notes played on musical instruments. The whole process is intended to be done real time without installation.](https://github.com/myapos/e-tuner) 
 ### June 9, 2019 
 - [aguaviva](https://github.com/aguaviva) 
 - [Tonal App](https://danigb.github.io/tonal-app/#/C) 
