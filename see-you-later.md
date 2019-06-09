@@ -23,6 +23,7 @@ see-you-later
 - [Brainy-Broccoli/Pitch-Perfect: Tonal language learning software](https://github.com/Brainy-Broccoli/Pitch-Perfect) 
 - [qigemi/EDCircles: real-time circle detection by edge drawing.algorithm provided by Cuneyt Akinlar and Cihan Tonal](https://github.com/qigemi/EDCircles) 
 - [Приложения в Google Play – Voice Pitch Analyzer](https://play.google.com/store/apps/details?id=de.lilithwittmann.voicepitchanalyzer) 
+- [purrprogramming/voice-pitch-analyzer](https://github.com/purrprogramming/voice-pitch-analyzer) 
 ### June 6, 2019 
 - [Slavonic Computing Initiative](https://github.com/slavonic) 
 ### June 5, 2019 
