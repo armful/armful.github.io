@@ -21,6 +21,7 @@ see-you-later
 ### June 10, 2019 
 - [jordan314/pitchgraph: Displays live audio in a graph above and below 220Hz](https://github.com/jordan314/pitchgraph) 
 - [RodrigoRoaRodriguez/Notalizer: A sound visualizer that displays frequency distribution and recognizes pitch as musical notes.](https://github.com/RodrigoRoaRodriguez/Notalizer) 
+- [MR6996/ChromaticTuner: An application for detects and displays the pitch of musical notes played on a musical instrument.](https://github.com/MR6996/ChromaticTuner#references) 
 ### June 9, 2019 
 - [aguaviva](https://github.com/aguaviva) 
 - [Tonal App](https://danigb.github.io/tonal-app/#/C) 
