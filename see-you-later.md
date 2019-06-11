@@ -22,6 +22,7 @@ see-you-later
 ### June 11, 2019 
 - [altercation/vim-colors-solarized: precision colorscheme for the vim text editor](https://github.com/altercation/vim-colors-solarized) 
 - [neovim/neovim: Vim-fork focused on extensibility and usability](https://github.com/neovim/neovim) 
+- [fonts-windows/font_cache_fix.cmd at master · eladkarako/fonts-windows](https://github.com/eladkarako/fonts-windows/blob/master/font_cache_fix.cmd) 
 ### June 10, 2019 
 - [jordan314/pitchgraph: Displays live audio in a graph above and below 220Hz](https://github.com/jordan314/pitchgraph) 
 - [RodrigoRoaRodriguez/Notalizer: A sound visualizer that displays frequency distribution and recognizes pitch as musical notes.](https://github.com/RodrigoRoaRodriguez/Notalizer) 
