@@ -22,6 +22,7 @@ see-you-later
 
 ### June 17, 2019 
 - [Dman95/SASM: SASM - simple crossplatform IDE for NASM, MASM, GAS and FASM assembly languages](https://github.com/Dman95/SASM) 
+- [visualfc/liteide: LiteIDE is a simple, open source, cross-platform Go IDE.](https://github.com/visualfc/liteide) 
 ### June 11, 2019 
 - [altercation/vim-colors-solarized: precision colorscheme for the vim text editor](https://github.com/altercation/vim-colors-solarized) 
 - [neovim/neovim: Vim-fork focused on extensibility and usability](https://github.com/neovim/neovim) 
