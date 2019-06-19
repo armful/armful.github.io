@@ -21,6 +21,9 @@ see-you-later
 
 
 
+
+### June 20, 2019 
+- [ManuelGil/Reset-Windows-Update-Tool: Troubleshooting Tool with Windows Updates (Developed in Dev-C++).](https://github.com/ManuelGil/Reset-Windows-Update-Tool) 
 ### June 19, 2019 
 - [CppCoreGuidelines/CppCoreGuidelines.md at master · isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) 
 - [Programming stuff: C++ 11 FAQ от Бьярна Страуструпа](http://sergeyteplyakov.blogspot.com/2012/05/c-11-faq.html) 
