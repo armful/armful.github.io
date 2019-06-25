@@ -120,7 +120,7 @@ function FreqFromNote(note)
 function DrawPiano(buffer, sampleRate) 
 {
     var noteFreqs = [ 329, 246,196,146,110,82];
-    var noteNumber = [ 21, 25, 28, 30, 33, 49];
+    var noteNumber = [ 23, 25, 28, 30, 32, 49];
     
     canvasCtx.font="9px ti92pluspc";
     canvasCtx.textAlign="center"; 
@@ -232,22 +232,23 @@ function init()
 
 
 <body onload="init()">
-<h1>  Тоновый диапазон</h1>
+<h1>  Эмотивный диапазон <a href="https://baike.baidu.com/item/语气" target="_blank">语气</a> </h1>
 <div id="container">
 
 <canvas id="myCanvas" onclick="audioContext.resume()" width="600" height="300"></canvas>
 
 <div id="text"></div>
 
-<h2> 5 тонов:</h2>
+<h2><a href="https://armful.github.io/diapason.png" target="_blank">Diapason.PNG</a></h2>
+
     <ul>
-    <li>F3 - 174㎐</li>
-    <li>D3 - 146㎐</li>
-    <li>C3 - 130㎐</li>
-    <li>A2 - 110㎐</li>
-    <li>F2 - 87㎐</li>
-	</p> тестовый
-	<li>A4 - 440㎐</li>
+		<li>  E3 - 164㎐</li>
+		<li>  D3 - 146㎐</li>
+		<li>  C3 - 130㎐</li>
+		<li>  A2 - 110㎐</li>
+		<li>  G2 - 98㎐</li>
+		</p>	  тестовый
+		<li>  A4 - 440㎐</li>
     </ul>
 </div>
 </body>
